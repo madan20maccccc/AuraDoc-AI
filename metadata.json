@@ -1,0 +1,7 @@
+{
+  "name": "AuraDoc AI",
+  "description": "An elite AI clinical assistant specializing in real-time medical documentation and multilingual interpretation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
